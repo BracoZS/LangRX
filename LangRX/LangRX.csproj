@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net48;net8.0-windows;net9.0-windows;net10.0-windows</TargetFrameworks>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>LangRX</RootNamespace>
+    <AssemblyName>LangRX</AssemblyName>
+
+    <!-- NuGet Package Metadata -->
+    <PackageId>LangRX</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Bracozs</Authors>
+    <Company>Bracozs</Company>
+    <Description>Dynamic localization library for WPF applications based on .resx files with runtime language switching support.</Description>
+    <PackageTags>wpf;localization;resx;language;dictionary</PackageTags>
+    <RepositoryUrl>https://github.com/BracoZS/LangRX</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
