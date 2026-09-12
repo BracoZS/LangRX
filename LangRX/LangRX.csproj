@@ -11,7 +11,7 @@
 
     <!-- NuGet Package Metadata -->
     <PackageId>LangRX</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Bracozs</Authors>
     <Company>Bracozs</Company>
     <Description>Dynamic localization library for WPF applications based on .resx files with runtime language switching support.</Description>
